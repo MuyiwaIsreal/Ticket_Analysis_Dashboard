@@ -10,4 +10,5 @@ The aim is to provide stakeholders with a tool that facilitates informed decisio
 
 ## About Dataset
 The dataset provided for this project spans from January 2020 to March 2024 and contains 84,353 entries related to ticketing system data.
+
 It is meticulously structured to facilitate comprehensive analysis of IT service management operations, including ticket handling efficiency, agent performance, and adherence to service level agreements. The dataset includes information such as ticket IDs, employee and agent IDs, request categories, severity and priority levels, resolution times, satisfaction rates, SLA status, the date the ticket was opened, and the type of work involved to supports detailed reporting and visualization, enabling data-driven decision-making and performance optimization.
