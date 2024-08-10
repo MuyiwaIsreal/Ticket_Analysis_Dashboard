@@ -1,5 +1,4 @@
 # Ticket_Analysis_Dashboard
- Ticket Sales Analysis - Dashboard
 
 ### Dashboard Link : 
 
@@ -15,3 +14,5 @@ It is meticulously structured to facilitate comprehensive analysis of IT service
 
 ## Tool Used:
 In line with the objectives and project requirements, I have utilized Power BI, a powerful business intelligence tool, for dashboard creation. Additionally, I have employed Excel to some extent to ensure that the data is formatted clearly and in a usable manner.
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
