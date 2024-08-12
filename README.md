@@ -16,3 +16,9 @@ It is meticulously structured to facilitate comprehensive analysis of IT service
 In line with the objectives and project requirements, I have utilized Power BI, a powerful business intelligence tool, for dashboard creation. Additionally, I have employed Excel to some extent to ensure that the data is formatted clearly and in a usable manner.
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+## Dashboard Overview:
+The Ticket Analysis Dashboard provides an in-depth view of the ticket management process, helping teams monitor and optimize their performance in handling service requests and incidents. The dashboard showcases key performance indicators (KPIs), distribution of tickets by various categories, and the performance of support agents. The visualizations are designed to offer insights into the overall efficiency and effectiveness of the support process.
+
+![image alt](https://github.com/MuyiwaIsreal/Ticket_Analysis_Dashboard/blob/371c688a822e4bbe971e4486213e1f3bba91f1e0/Screenshot%202024-08-05%20165549.png)
+
